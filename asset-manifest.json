@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PIWO_Lab6/static/css/main.a0656828.chunk.css",
-    "main.js": "/PIWO_Lab6/static/js/main.10d45c48.chunk.js",
-    "main.js.map": "/PIWO_Lab6/static/js/main.10d45c48.chunk.js.map",
+    "main.js": "/PIWO_Lab6/static/js/main.bab03fe1.chunk.js",
+    "main.js.map": "/PIWO_Lab6/static/js/main.bab03fe1.chunk.js.map",
     "runtime-main.js": "/PIWO_Lab6/static/js/runtime-main.2152162b.js",
     "runtime-main.js.map": "/PIWO_Lab6/static/js/runtime-main.2152162b.js.map",
     "static/js/2.8c9847cb.chunk.js": "/PIWO_Lab6/static/js/2.8c9847cb.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.2152162b.js",
     "static/js/2.8c9847cb.chunk.js",
     "static/css/main.a0656828.chunk.css",
-    "static/js/main.10d45c48.chunk.js"
+    "static/js/main.bab03fe1.chunk.js"
   ]
 }
