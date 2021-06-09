@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PIWO_Lab6/static/css/main.a0656828.chunk.css",
+    "main.js": "/PIWO_Lab6/static/js/main.a424a4fb.chunk.js",
+    "main.js.map": "/PIWO_Lab6/static/js/main.a424a4fb.chunk.js.map",
+    "runtime-main.js": "/PIWO_Lab6/static/js/runtime-main.2152162b.js",
+    "runtime-main.js.map": "/PIWO_Lab6/static/js/runtime-main.2152162b.js.map",
+    "static/js/2.8c9847cb.chunk.js": "/PIWO_Lab6/static/js/2.8c9847cb.chunk.js",
+    "static/js/2.8c9847cb.chunk.js.map": "/PIWO_Lab6/static/js/2.8c9847cb.chunk.js.map",
+    "static/js/3.4ee31792.chunk.js": "/PIWO_Lab6/static/js/3.4ee31792.chunk.js",
+    "static/js/3.4ee31792.chunk.js.map": "/PIWO_Lab6/static/js/3.4ee31792.chunk.js.map",
+    "index.html": "/PIWO_Lab6/index.html",
+    "static/css/main.a0656828.chunk.css.map": "/PIWO_Lab6/static/css/main.a0656828.chunk.css.map",
+    "static/js/2.8c9847cb.chunk.js.LICENSE.txt": "/PIWO_Lab6/static/js/2.8c9847cb.chunk.js.LICENSE.txt",
+    "static/media/1.5753b634.png": "/PIWO_Lab6/static/media/1.5753b634.png",
+    "static/media/2.b3f9d6c1.png": "/PIWO_Lab6/static/media/2.b3f9d6c1.png",
+    "static/media/3.c1b1f274.png": "/PIWO_Lab6/static/media/3.c1b1f274.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2152162b.js",
+    "static/js/2.8c9847cb.chunk.js",
+    "static/css/main.a0656828.chunk.css",
+    "static/js/main.a424a4fb.chunk.js"
+  ]
+}
