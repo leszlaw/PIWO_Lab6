@@ -18,7 +18,7 @@ const Login = () => {
     }
 
     if(redirect)
-        return <Redirect to="/add_student"></Redirect>
+        return <Redirect to="/PIWO_Lab6/add_student"></Redirect>
 
     return (
         <div className="form">

@@ -25,19 +25,19 @@ const NavBar = () => {
     if(user)
         return(
             <nav className={"topNav"}>
-                <NavLink to = "/" exact>Strona glowna</NavLink>
-                <NavLink to = "/students" >Lista studentow</NavLink>
-                <NavLink to = "/add_student">Dodaj studenta</NavLink>
+                <NavLink to = "/PIWO_Lab6/" exact>Strona glowna</NavLink>
+                <NavLink to = "/PIWO_Lab6/students" >Lista studentow</NavLink>
+                <NavLink to = "/PIWO_Lab6/add_student">Dodaj studenta</NavLink>
                 <a>{user.displayName}</a>
-                <a onClick={logout} href="/login">Wyloguj</a>
+                <a onClick={logout} href="PIWO_Lab6/login">Wyloguj</a>
             </nav>
         )
     return(
         <nav className={"topNav"}>
-            <NavLink to = "/" exact>Strona glowna</NavLink>
-            <NavLink to = "/students" >Lista studentow</NavLink>
-            <NavLink to = "/login" >Zaloguj</NavLink>
-            <NavLink to = "/register" >Zarejestruj</NavLink>
+            <NavLink to = "/PIWO_Lab6/" exact>Strona glowna</NavLink>
+            <NavLink to = "/PIWO_Lab6/students" >Lista studentow</NavLink>
+            <NavLink to = "/PIWO_Lab6/login" >Zaloguj</NavLink>
+            <NavLink to = "/PIWO_Lab6/register" >Zarejestruj</NavLink>
         </nav>
     )
 }

@@ -6,13 +6,13 @@ import logo3 from "./images/3.png";
 const Images = () => {
     return(
         <Switch>
-            <Route path={"/"} exact>
+            <Route path={"/PIWO_Lab6/"} exact>
                 <img src={logo1}/>
             </Route>
-            <Route path={"/students"}>
+            <Route path={"/PIWO_Lab6/students"}>
                 <img src={logo2}/>
             </Route>
-            <Route path={"/add_student"}>
+            <Route path={"PIWO_Lab6/add_student"}>
                 <img src={logo3}/>
             </Route>
             <Route>

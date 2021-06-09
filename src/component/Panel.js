@@ -41,19 +41,19 @@ const Panel = () => {
                     <NavBar/>
                     <div className={"botContent"}>
                         <Switch>
-                            <Route path={"/"} exact>
+                            <Route path={"/PIWO_Lab6/"} exact>
                                 <MainPage></MainPage>
                             </Route>
-                            <Route path={"/students"}>
+                            <Route path={"/PIWO_Lab6/students"}>
 								<StudentList students={students}/>
                             </Route>
-                            <Route path={"/add_student"}>
+                            <Route path={"/PIWO_Lab6/add_student"}>
 							    <StudentAdder func={refresh}/>
                             </Route>
-                            <Route path={"/login"}>
+                            <Route path={"/PIWO_Lab6/login"}>
                                 <Login/>
                             </Route>
-                            <Route path={"/register"}>
+                            <Route path={"/PIWO_Lab6/register"}>
                                 <Register/>
                             </Route>
                             <Route>
